@@ -1,0 +1,88 @@
+body {
+	background: rgb(230, 230, 230, 230); ;
+	color: #758184;
+	font-family: Sigmar One; 
+	font-size: 17px
+}
+h1 {
+	color: black;
+	font-family:<link href="https://fonts.googleapis.com/css?family=Oswald:600&display=swap" rel="stylesheet">
+	font-size: 50px
+}
+h2 {
+	color: #706c61;
+	font-family: Patua One;
+	font-size: 30px ;
+}
+a {
+	text-decoration: none;
+	color: purple;
+}
+a:hover {
+	color: none;
+}
+}
+@media (max-width: 760px) {
+	.container {
+		width: 600px
+	}
+}
+@media (max-width: 500px) {
+	.container {
+		width: 400px 
+	}
+}
+div {
+	padding: 50px;
+	margin: 15px auto;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1);
+	border-radius: 5px;
+}
+.card-white {
+	background: white;
+}
+/*custom design with class */
+.btn-blue {
+	background-color: #6b72e1;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+.btn-blue:hover {
+	background-color: black;
+	color: white;
+}
+
+#introduction p {
+	margin-bottom: 40px;	
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgb(210, 210, 210);
+}
+.list-inline i:hover {
+	color: black;
+	}
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.card-white {
+	background-color: white; 
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,1)
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+#img-circle {
+	width: 170px;
+	height :170px;
+	border-radius: 60%;
+
+
+
